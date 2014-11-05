@@ -1,0 +1,1164 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"da",
+				"data-uri([mimetype,] url)"
+			],
+			[
+				"results",
+				"survey_results"
+			],
+			[
+				"succe",
+				"success_handler"
+			],
+			[
+				"error",
+				"error_handler"
+			],
+			[
+				"er",
+				"error_handler"
+			],
+			[
+				"succ",
+				"success_handler"
+			],
+			[
+				"segment",
+				"segment-info-list"
+			],
+			[
+				"sele",
+				"selectedItem"
+			],
+			[
+				"comparis",
+				"comparison_2_name"
+			],
+			[
+				"compa",
+				"comparison_1_name"
+			],
+			[
+				"init",
+				"init_comparison_2_data"
+			],
+			[
+				"comp",
+				"comparison_2_data"
+			],
+			[
+				"init_co",
+				"init_comparison_1_data"
+			],
+			[
+				"compari",
+				"comparison_1_data"
+			],
+			[
+				"transla",
+				"translation_helper"
+			],
+			[
+				"tra",
+				"translation_helper"
+			],
+			[
+				"na",
+				"navigation_helper"
+			],
+			[
+				"reset",
+				"reset_top"
+			],
+			[
+				"team",
+				"team_description"
+			],
+			[
+				"is_",
+				"is_internal_hash_change"
+			],
+			[
+				"bui",
+				"build_app_timeline"
+			],
+			[
+				"sel",
+				"select_navigation"
+			],
+			[
+				"scroll",
+				"scrolling_content"
+			],
+			[
+				"toggle",
+				"toggle_video_playback"
+			],
+			[
+				"bind",
+				"bind_insight_listeners"
+			],
+			[
+				"work_",
+				"work_description_helper"
+			],
+			[
+				"defa",
+				"default_fields"
+			],
+			[
+				"is_Ip",
+				"is_iPhone"
+			],
+			[
+				"ath",
+				"atmospheric_video_class"
+			],
+			[
+				"is",
+				"isiPad"
+			],
+			[
+				"right",
+				"Right"
+			],
+			[
+				"tempo",
+				"temporarySwap"
+			],
+			[
+				"get",
+				"getLabelTime"
+			],
+			[
+				"opening",
+				"opening_background_b"
+			],
+			[
+				"bac",
+				"background-position"
+			],
+			[
+				"opening_",
+				"opening_background_video_a"
+			],
+			[
+				"insig",
+				"insight_info"
+			],
+			[
+				"nav",
+				"nav_anchors"
+			],
+			[
+				"parent",
+				"parents	.parents()"
+			],
+			[
+				"background",
+				"background-size"
+			],
+			[
+				"list-styl",
+				"list-style-type"
+			],
+			[
+				"TrendSan",
+				"TrendSlabOne"
+			],
+			[
+				"HttpRequest",
+				"http_request"
+			],
+			[
+				"tre",
+				"TrendSlabOne"
+			],
+			[
+				"Trend",
+				"TrendSansOne"
+			],
+			[
+				"curre",
+				"currentLabel"
+			],
+			[
+				"getLabe",
+				"getLabelAfter"
+			],
+			[
+				"elem",
+				"element_obj"
+			],
+			[
+				"mysqli_fet",
+				"mysqli_fetch_array"
+			],
+			[
+				"marke",
+				"markersInView"
+			],
+			[
+				"viewA",
+				"viewableArea"
+			],
+			[
+				"tot",
+				"totalArea"
+			],
+			[
+				"viewa",
+				"viewableArea"
+			],
+			[
+				"enco",
+				"json_encode"
+			],
+			[
+				"stop",
+				"stopPropagation"
+			],
+			[
+				"border-rig",
+				"border-right-color"
+			],
+			[
+				"rg",
+				"rgba"
+			],
+			[
+				"que",
+				"querySelectorAll"
+			],
+			[
+				"getE",
+				"getParentByClassName"
+			],
+			[
+				"populate",
+				"populateSlidesFromJSON"
+			],
+			[
+				"shippin",
+				"shipping_checkbox"
+			],
+			[
+				"getElee",
+				"getElementsByClassName"
+			],
+			[
+				"getEleme",
+				"getElementById"
+			],
+			[
+				"x",
+				"x"
+			],
+			[
+				"prevent",
+				"preventOverScroll"
+			],
+			[
+				"hei",
+				"heightSlider"
+			],
+			[
+				"getEle",
+				"getElementsByClassName"
+			],
+			[
+				"pmp_ree",
+				"pmp_references_arr"
+			],
+			[
+				"assignRefernce",
+				"assignReferences"
+			],
+			[
+				"assign",
+				"assignReferences"
+			],
+			[
+				"win",
+				"win479"
+			],
+			[
+				"new",
+				"newEndingColor"
+			],
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"ban",
+				"background-color"
+			],
+			[
+				"json",
+				"json_encode"
+			],
+			[
+				"product",
+				"productVideos"
+			],
+			[
+				"img",
+				"border-image"
+			],
+			[
+				"master",
+				"masterTimeline"
+			],
+			[
+				"bottle-reflec",
+				"bottle-reflection-wrapper"
+			],
+			[
+				"lt",
+				"isLtIE9"
+			],
+			[
+				"bottleW",
+				"bottleWrapper"
+			],
+			[
+				"clear",
+				"clearTimeout"
+			],
+			[
+				"bottle-re",
+				"bottle-reflection-wrapper"
+			],
+			[
+				"bottle-",
+				"bottle-reflection"
+			],
+			[
+				"bottle-ref",
+				"bottle-reflection-wrapper"
+			],
+			[
+				"bottleF",
+				"bottleFloatTimeline"
+			],
+			[
+				"add",
+				"addEventListener"
+			],
+			[
+				"locat",
+				"locator_results"
+			],
+			[
+				"cont",
+				"contentPosY"
+			],
+			[
+				"bottlePath",
+				"bottlePathTimeline"
+			],
+			[
+				"bottle",
+				"bottleFloatTimeline"
+			],
+			[
+				"document",
+				"document"
+			],
+			[
+				"ti",
+				"contentTimeline"
+			],
+			[
+				"lo",
+				"locatorWrapper"
+			],
+			[
+				"e",
+				"ease"
+			],
+			[
+				"bezier",
+				"bezierpaths"
+			],
+			[
+				"way",
+				"waypointFunctions"
+			],
+			[
+				"paddin",
+				"padding-top"
+			],
+			[
+				"tex",
+				"text-transform"
+			],
+			[
+				"togg",
+				"toggleButton"
+			],
+			[
+				"web",
+				"webkitAnimationEnd"
+			],
+			[
+				"webkitAni",
+				"webkitAnimationStart"
+			],
+			[
+				"customiz",
+				"customize-bottom-bar"
+			],
+			[
+				"related",
+				"relatedVideosURL"
+			],
+			[
+				"getVideo",
+				"getRelatedVideo"
+			],
+			[
+				"floating",
+				"floatingCarousel"
+			],
+			[
+				"smoo",
+				"smoothScrollDiv"
+			],
+			[
+				"photoslide",
+				"photoSlideCount"
+			],
+			[
+				"anch",
+				"anchorObject"
+			],
+			[
+				"motion",
+				"motionThumbnail"
+			],
+			[
+				"smooth",
+				"smoothDivScroll"
+			],
+			[
+				"drop",
+				"dropDownNavigation"
+			],
+			[
+				"phot",
+				"photoWrapper"
+			],
+			[
+				"light",
+				"lightboxLink"
+			],
+			[
+				"photograph",
+				"photography_directors"
+			],
+			[
+				"parseNavigation",
+				"parseNavigationHelperHelper"
+			],
+			[
+				"visible",
+				"visibleNavigation"
+			],
+			[
+				"mason",
+				"masonryHorizontal"
+			],
+			[
+				"aja",
+				"ajaxSetup"
+			],
+			[
+				"to",
+				"timeout	setTimeout function"
+			],
+			[
+				"mas",
+				"masonryHorizontal"
+			],
+			[
+				"wrapp",
+				"wrapperHeight"
+			],
+			[
+				"motionThum",
+				"motionThumbWidth"
+			],
+			[
+				"window",
+				"windowWidth"
+			],
+			[
+				"carousel",
+				"carousel"
+			],
+			[
+				"autoScr",
+				"autoScrollDirection"
+			],
+			[
+				"auto",
+				"autoScroll"
+			],
+			[
+				"city",
+				"citypulsedemo"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 400.0,
+		"selected_items":
+		[
+			[
+				"todo",
+				"Show TODOs: Project and open files"
+			],
+			[
+				"tod",
+				"Show TODOs: Project and open files"
+			],
+			[
+				"au",
+				"Autoprefix CSS"
+			],
+			[
+				"",
+				"Autoprefix CSS"
+			],
+			[
+				"packa",
+				"Package Control: Remove Package"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"to",
+				"Show TODOs: Project and open files"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"prefixr",
+				"Preferences: Prefixr Key Bindings – Default"
+			],
+			[
+				"prefix",
+				"Preferences: Prefixr Key Bindings – User"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"pack",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"show",
+				"Show TODOs: Project and open files"
+			],
+			[
+				"TO",
+				"Show TODOs: Project and open files"
+			],
+			[
+				"To",
+				"Show TODOs: Project and open files"
+			],
+			[
+				"packa control",
+				"Package Control: List Packages"
+			],
+			[
+				"intall",
+				"Package Control: Install Package"
+			],
+			[
+				"set less",
+				"Set Syntax: LESS"
+			],
+			[
+				"set css",
+				"Set Syntax: CSS"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"animate",
+				"Snippet: .animate() with callback"
+			],
+			[
+				"snippet",
+				"Snippet: Prototype"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"less",
+				"Set Syntax: LESS"
+			],
+			[
+				"set synta",
+				"Set Syntax: LESS"
+			],
+			[
+				"set syntax: jq",
+				"Set Syntax: jQuery (JavaScript)"
+			],
+			[
+				"install p",
+				"Package Control: Install Package"
+			],
+			[
+				"set jq",
+				"Set Syntax: jQuery (JavaScript)"
+			],
+			[
+				"Snippet: conta	",
+				"Snippet: contains"
+			],
+			[
+				"jav",
+				"Set Syntax: jQuery (JavaScript)"
+			],
+			[
+				"less ",
+				"Set Syntax: LESS"
+			],
+			[
+				"snippet: innerHeight",
+				"Snippet: .innerHeight"
+			],
+			[
+				"Snippet: ",
+				"Snippet: closest"
+			],
+			[
+				"package control instal",
+				"Package Control: Install Package"
+			],
+			[
+				"packa in",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 601.0
+	},
+	"console":
+	{
+		"height": 364.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/castavridis/Vagrant/Bazaarboy/Bazaarboy/Bazaarboy/views/css/vars.less",
+		"/Users/castavridis/Vagrant/Bazaarboy/Bazaarboy/Bazaarboy/views/templates/event/format-full-screen.jade",
+		"/Users/castavridis/LayerVault/Bazaarboy/Mockups/A:W 2014 Platform Updates/Cut-Ups/Radiating Logo.png",
+		"/Users/castavridis/Vagrant/Bazaarboy/Bazaarboy/Bazaarboy/static/css/styles.css",
+		"/Users/castavridis/Vagrant/Bazaarboy/Bazaarboy/Bazaarboy/templates/event/format-full-screen.html",
+		"/Users/castavridis/Vagrant/Bazaarboy/Bazaarboy/Bazaarboy/views/templates/layout.jade",
+		"/Users/castavridis/Vagrant/Bazaarboy/Bazaarboy/Bazaarboy/src/controllers/event.py",
+		"/Users/castavridis/Vagrant/Bazaarboy/Bazaarboy/Bazaarboy/views/css/event/format-full-screen.less",
+		"/Users/castavridis/Vagrant/Bazaarboy/Bazaarboy/Bazaarboy/views/css/event/index.less",
+		"/Users/castavridis/Vagrant/Bazaarboy/Bazaarboy/Bazaarboy/views/templates/event/index.jade",
+		"/Applications/MAMP/htdocs/abi-taps/app/www/_/js/data.js",
+		"/Applications/MAMP/htdocs/abi-taps/app/www/_/temp/help/definitions.jade",
+		"/Applications/MAMP/htdocs/abi-taps/app/www/_/js/app.js",
+		"/Users/castavridis/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Applications/MAMP/htdocs/abi-taps/app/www/_/css/knowledge.less",
+		"/Applications/MAMP/htdocs/abi-taps/app/www/_/css/style_guide.less",
+		"/Applications/MAMP/htdocs/abi-taps/server/data/formatted/csv/knowledge_bank/style lists/Pilsner (Lager)-Table 1.csv",
+		"/Applications/MAMP/htdocs/abi-taps/app/www/_/temp/knowledge/segmentDetail.jade",
+		"/Applications/MAMP/htdocs/abi-taps/app/www/_/temp/help/support.jade",
+		"/Applications/MAMP/htdocs/abi-taps/app/www/_/css/help.less",
+		"/Applications/MAMP/htdocs/abi-taps/server/data/formatted/csv/knowledge_bank/style lists/00 Beer Style Descriptions-Table 1.csv",
+		"/Users/castavridis/Desktop/Brands for Volume App Segments V2/Begian Witbier-Table 1.csv",
+		"/Users/castavridis/Desktop/Brands for Volume App Segments V2/Belgian Dark Ale-Table 1.csv",
+		"/Users/castavridis/Desktop/Brands for Volume App Segments V2/Belgian Dark Strong Ale-Table 1.csv",
+		"/Users/castavridis/Desktop/Brands for Volume App Segments V2/Belgian Pale Ales-Table 1.csv",
+		"/Users/castavridis/Desktop/Brands for Volume App Segments V2/Belgian Strong Pale Ale-Table 1.csv",
+		"/Users/castavridis/Desktop/Brands for Volume App Segments V2/Bock (lager)-Table 1.csv",
+		"/Users/castavridis/Desktop/Brands for Volume App Segments V2/Brown Ale-Table 1.csv",
+		"/Users/castavridis/Desktop/Brands for Volume App Segments V2/Cider -Table 1.csv",
+		"/Users/castavridis/Desktop/Brands for Volume App Segments V2/Cider-Table 1.csv",
+		"/Users/castavridis/Desktop/Brands for Volume App Segments V2/Craft - IPA -Table 1.csv",
+		"/Users/castavridis/Desktop/Brands for Volume App Segments V2/Craft - Other Top 50-Table 1.csv",
+		"/Users/castavridis/Desktop/Brands for Volume App Segments V2/Craft - Pale Ale-Table 1.csv",
+		"/Users/castavridis/Desktop/Brands for Volume App Segments V2/Craft - Seasonal -Table 1.csv",
+		"/Users/castavridis/Desktop/Brands for Volume App Segments V2/Craft - Wheat-Table 1.csv",
+		"/Users/castavridis/Desktop/Brands for Volume App Segments V2/Dark Lager - Altbier-Table 1.csv",
+		"/Users/castavridis/Desktop/Brands for Volume App Segments V2/FMB -Table 1.csv",
+		"/Users/castavridis/Desktop/Brands for Volume App Segments V2/Golden Ale (Kolsch)-Table 1.csv",
+		"/Users/castavridis/Desktop/Brands for Volume App Segments V2/High End Import -Table 1.csv",
+		"/Users/castavridis/Desktop/Brands for Volume App Segments V2/Imperial IPA-Table 1.csv",
+		"/Users/castavridis/Desktop/Brands for Volume App Segments V2/India Pale Ale-Table 1.csv",
+		"/Users/castavridis/Desktop/Brands for Volume App Segments V2/Lookup-Table 1.csv",
+		"/Users/castavridis/Desktop/Brands for Volume App Segments V2/Marzen - Octoberfest (Lager)-Table 1.csv",
+		"/Users/castavridis/Desktop/Brands for Volume App Segments V2/Pale Ale-Table 1.csv",
+		"/Users/castavridis/Desktop/Brands for Volume App Segments V2/Pale Lager-Table 1.csv",
+		"/Users/castavridis/Desktop/Brands for Volume App Segments V2/Pilsner (Lager)-Table 1.csv",
+		"/Users/castavridis/Desktop/Brands for Volume App Segments V2/Porter (Ale)-Table 1.csv",
+		"/Users/castavridis/Desktop/Brands for Volume App Segments V2/Premium -Table 1.csv",
+		"/Users/castavridis/Desktop/Brands for Volume App Segments V2/Saison (Ale)-Table 1.csv",
+		"/Users/castavridis/Desktop/Brands for Volume App Segments V2/Scottish Ale-Table 1.csv",
+		"/Users/castavridis/Desktop/Brands for Volume App Segments V2/Stout (Ale)-Table 1.csv",
+		"/Users/castavridis/Desktop/Brands for Volume App Segments V2/Total Craft GM - Sort-Table 1.csv",
+		"/Users/castavridis/Desktop/Brands for Volume App Segments V2/Value -Table 1.csv",
+		"/Users/castavridis/Desktop/Brands for Volume App Segments V2/Wheat (Ale)-Table 1.csv",
+		"/Users/castavridis/Desktop/Brands for Volume App Segments V2/Amber Lager-Table 1.csv",
+		"/Users/castavridis/Desktop/Brands for Volume App Segments V2/Amber Ale-Table 1.csv",
+		"/Applications/MAMP/htdocs/abi-taps/app/www/_/css/home.less",
+		"/Applications/MAMP/htdocs/abi-taps/app/www/_/css/s4_fixes.less",
+		"/Applications/MAMP/htdocs/abi-taps/app/www/_/temp/simulation/assignTaps.jade",
+		"/Applications/MAMP/htdocs/abi-taps/app/www/_/css/globals.less",
+		"/Applications/MAMP/htdocs/abi-taps/app/www/_/css/simulation.less",
+		"/Applications/MAMP/htdocs/abi-taps/app/www/_/css/s3_fixes.less",
+		"/Applications/MAMP/htdocs/abi-taps/app/www/style_guide.jade",
+		"/Applications/MAMP/htdocs/abi-taps/app/www/_/temp/knowledge/tipsDetail.jade",
+		"/Applications/MAMP/htdocs/abi-taps/app/www/_/css/style_guide.css",
+		"/Applications/MAMP/htdocs/abi-taps/app/www/index.jade",
+		"/Applications/MAMP/htdocs/abi-taps/app/www/_/temp/knowledge/index.jade",
+		"/Applications/MAMP/htdocs/abi-taps/app/www/_/lib/onsen/css/onsen-css-components.css",
+		"/Applications/MAMP/htdocs/abi-taps/app/www/_/temp/home/index.jade",
+		"/Applications/MAMP/htdocs/abi-taps/app/www/_/js/score.js",
+		"/Applications/MAMP/htdocs/abi-taps/app/platforms/android/AndroidManifest.xml",
+		"/Applications/MAMP/htdocs/abi-taps/app/www/_/temp/help/index.jade",
+		"/Applications/MAMP/htdocs/abi-taps/app/www/_/temp/home/accountLogin.jade",
+		"/Applications/MAMP/htdocs/abi-taps/app/www/_/temp/home/accountReset.jade",
+		"/Applications/MAMP/htdocs/abi-taps/app/www/_/temp/help/feedback.jade",
+		"/Applications/MAMP/htdocs/abi-taps/app/www/_/temp/home/accountCreate.jade",
+		"/Applications/MAMP/htdocs/abi-taps/app/www/_/temp/simulation/addLocation.jade",
+		"/Applications/MAMP/htdocs/abi-taps/app/www/_/css/survey.less",
+		"/Applications/MAMP/htdocs/abi-taps/app/www/_/temp/leaderboard/regional_scores.jade",
+		"/Applications/MAMP/htdocs/abi-taps/app/www/_/temp/leaderboard/regional_averages.jade",
+		"/Applications/MAMP/htdocs/abi-taps/app/www/_/temp/leaderboard/regional.jade",
+		"/Applications/MAMP/htdocs/abi-taps/app/www/_/temp/leaderboard/personal.jade",
+		"/Applications/MAMP/htdocs/abi-taps/app/www/_/temp/leaderboard/national_scores.jade",
+		"/Applications/MAMP/htdocs/abi-taps/app/www/_/temp/leaderboard/national_averages.jade",
+		"/Applications/MAMP/htdocs/abi-taps/app/www/_/temp/leaderboard/national.jade",
+		"/Applications/MAMP/htdocs/abi-taps/app/www/_/temp/simulation/nextSteps.jade",
+		"/Applications/MAMP/htdocs/abi-taps/app/www/_/temp/knowledge/videoDetail.jade",
+		"/Applications/MAMP/htdocs/abi-taps/app/www/_/temp/knowledge/styles.jade",
+		"/Applications/MAMP/htdocs/abi-taps/app/www/_/temp/knowledge/segments.jade",
+		"/Applications/MAMP/htdocs/abi-taps/app/www/_/temp/knowledge/glassware.jade",
+		"/Applications/MAMP/htdocs/abi-taps/app/www/_/temp/knowledge/brands.jade",
+		"/Applications/MAMP/htdocs/abi-taps/app/www/_/temp/knowledge/tips.jade",
+		"/Applications/MAMP/htdocs/abi-taps/app/www/_/temp/knowledge/styleDetail.jade",
+		"/Applications/MAMP/htdocs/abi-taps/app/www/_/temp/knowledge/glassDetail.jade",
+		"/Applications/MAMP/htdocs/abi-taps/app/www/_/temp/knowledge/brandDetail.jade",
+		"/Applications/MAMP/htdocs/abi-taps/app/www/_/css/hotfixes.less",
+		"/Users/castavridis/.android/adb_usb.ini",
+		"/Applications/MAMP/htdocs/abi-taps/app/www/_/temp/simulation/index.jade",
+		"/Applications/MAMP/htdocs/abi-taps/app/www/_/temp/simulation/locationDetails.jade",
+		"/Applications/MAMP/htdocs/abi-taps/app/www/_/img/splashscreen/launch_640x1136.jpg",
+		"/Applications/MAMP/htdocs/abi-taps/app/www/_/img/splashscreen/Default-568h@2x~iphone.png",
+		"/Users/castavridis/Downloads/transposed_Untitled spreadsheet - Sheet1.csv",
+		"/Applications/MAMP/htdocs/abi-taps/app/www/_/js/assign.js",
+		"/Applications/MAMP/htdocs/abi-taps/app/www/_/css/leaderboard.less",
+		"/Applications/MAMP/htdocs/abi-taps/app/www/_/js/psuedo/feedback.js",
+		"/Applications/MAMP/htdocs/abi-taps/app/www/_/js/input.js",
+		"/Applications/MAMP/htdocs/abi-taps/app/www/_/js/psuedo/feedback",
+		"/Applications/MAMP/htdocs/abi-taps/server/data/formatted/csv/knowledge_bank/brand lists/abi_brands.csv",
+		"/Applications/MAMP/htdocs/abi-taps/server/data/formatted/csv/knowledge_bank/glass lists/glassware_brands.csv",
+		"/Applications/MAMP/htdocs/abi-taps/server/public/_/js/main.js",
+		"/Applications/MAMP/htdocs/abi-taps/app/www/_/temp/knowledge/videosDetail.jade",
+		"/Applications/MAMP/htdocs/abi-taps/server/data/formatted/csv/knowledge_bank/tips/videos.csv",
+		"/Applications/MAMP/htdocs/abi-taps/app/www/_/temp/help/support.html",
+		"/Applications/MAMP/htdocs/abi-taps/app/www/_/temp/simulation/createComparison.jade",
+		"/Applications/MAMP/htdocs/abi-taps/app/www/_/js/reach.js",
+		"/Applications/MAMP/htdocs/abi-taps/server/data/formatted/csv/knowledge_bank/glass lists/glassware.csv",
+		"/Applications/MAMP/htdocs/abi-taps/server/data/formatted/csv/segment lists/20 segment_featured.csv",
+		"/Applications/MAMP/htdocs/abi-taps/app/www/_/temp/help/index.html",
+		"/Applications/MAMP/htdocs/abi-taps/app/www/_/js/location.js",
+		"/Applications/MAMP/htdocs/abi-taps/app/www/_/temp/simulation/optimalResults.jade",
+		"/Applications/MAMP/htdocs/AB Taps/abi-taps/app/www/_/temp/knowledge/styles.jade",
+		"/Applications/MAMP/htdocs/AB Taps/abi-taps/app/www/index.jade",
+		"/Applications/MAMP/htdocs/AB Taps/abi-taps/app/www/index.html",
+		"/Applications/MAMP/htdocs/AB Taps/abi-taps/app/www/_/js/app.js",
+		"/Applications/MAMP/htdocs/AB Taps/abi-taps/app/www/_/temp/home/index.jade",
+		"/Users/castavridis/Dropbox (happyMedium)/AB Inbev/Assortment App/Development/data/csv/style lists/00 Beer Style Descriptions-Table 1.csv",
+		"/Users/castavridis/Downloads/542c2cbd6373762ee70c0000.csv",
+		"/Users/castavridis/Desktop/Brands for Volume App Segments V2/Begian Wit (Ale)-Table 1.csv"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"",
+			"/Applications/MAMP/htdocs/abi-taps/server/data/formatted/csv",
+			"",
+			"/Applications/MAMP/htdocs/abi-taps/app/www/_/temp",
+			"",
+			"web/wp-content/themes/g360/js",
+			"",
+			"web/",
+			"web/wp-content/themes/g360/js",
+			"web/wp-content/themes/g360",
+			"/web/wp-content/themes/g360",
+			"",
+			"http://s3.",
+			"",
+			"<open files>",
+			"",
+			"<open files>",
+			"/Applications/MAMP/htdocs/group360/g360-new-site/web/wp-content/themes/g360/",
+			"/Applications/MAMP/htdocs/group360/g360-new-site/",
+			"/Applications/MAMP/htdocs/group360/g360-new-site/web",
+			"/Applications/MAMP/htdocs/group360/g360-new-site/web/wp-content/themes/g360",
+			"/Applications/MAMP/htdocs/group360/g360-new-site/web/wp-content/",
+			"/Applications/MAMP/htdocs/group360/g360-new-site",
+			"",
+			"/Applications/MAMP/htdocs/s2/",
+			"/Applications/MAMP/htdocs/s2/web/shop/",
+			"/Applications/MAMP/htdocs/s2/",
+			"/Applications/MAMP/htdocs/s2/web/",
+			"/Applications/MAMP/htdocs/s2/web/shop/themes/",
+			"/Applications/MAMP/htdocs/s2/",
+			"/Applications/MAMP/htdocs/s2/web/shop/themes/S2",
+			"/Applications/MAMP/htdocs/s2/",
+			"/Applications/MAMP/htdocs/s2/web/shop/",
+			"/Applications/MAMP/htdocs/s2/web/shop/themes/S2/",
+			"/Applications/MAMP/htdocs/s2/web/shop/",
+			"/Applications/MAMP/htdocs/s2/",
+			"/Applications/MAMP/htdocs/s2/web/shop/themes/S2/",
+			"/Applications/MAMP/htdocs/s2/",
+			"/Applications/MAMP/htdocs/s2/web/shop/themes/",
+			"/Applications/MAMP/htdocs/s2/web/shop/themes/css/",
+			"/Applications/MAMP/htdocs/s2/web/shop/",
+			"/Applications/MAMP/htdocs/s2/web/shop/themes/",
+			"/Applications/MAMP/htdocs/s2/web/shop/",
+			"/Applications/MAMP/htdocs/s2/",
+			"/Applications/MAMP/htdocs/s2/web/shop/",
+			"/Applications/MAMP/htdocs/s2/web/shop/themes/S2/",
+			"/Applications/MAMP/htdocs/s2/web/shop/themes/S2/css",
+			"/Applications/MAMP/htdocs/s2/web/",
+			"/Applications/MAMP/htdocs/s2/web/shop/themes/S2/",
+			"/Applications/MAMP/htdocs/s2/web/shop/themes/S2/css/",
+			"/Applications/MAMP/htdocs/s2/web/",
+			"/Applications/MAMP/htdocs/s2/web/shop/themes/S2/css",
+			"/Applications/MAMP/htdocs/s2/web/shop/themes",
+			"/Applications/MAMP/htdocs/s2/shop/themes",
+			"/Applications/MAMP/htdocs/s2/",
+			"/Applications/MAMP/htdocs/s2/web/shop/",
+			"/Applications/MAMP/htdocs/s2/web/shop/themes/S2/css",
+			"<open folders>,<open files>",
+			"<open folders>",
+			"/Applications/MAMP/htdocs/abi_select/",
+			"/Applications/MAMP/htdocs/ffvoices",
+			"",
+			"<open files>,<open folders>",
+			"",
+			"/Users/castavridis/Desktop/html2pdf",
+			"/Users/castavridis/Dropbox/HEY DAN!/[Android]agSeedSelect",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"profile-icon",
+			">>>>>>",
+			"=======",
+			"profile-icon",
+			"event-body",
+			"organizer",
+			"succes",
+			"exists.",
+			"updatedAt",
+			".toJSON",
+			"update",
+			"localStorage",
+			"return typeof(Storage)",
+			"supportsLocalStorage",
+			"updatedAt",
+			"query.find",
+			"localStorage",
+			"\\t",
+			"\\n",
+			"new Date",
+			"deleted_at",
+			"table_name + '_deleted_at'",
+			"localStorage[",
+			"Storage",
+			"localStorage",
+			"deleted_at: new Date(0)",
+			"deleted_at",
+			"create table",
+			"new Date()",
+			"deleted_at: 0",
+			"deleted_at",
+			"console.",
+			"orderBy",
+			"deleted",
+			"Parse.query",
+			"get_deleted_rows",
+			"updatedAt",
+			"deleting from",
+			"get_deleted_rows",
+			"notEqual",
+			"query.find",
+			"update_table",
+			"deleted_",
+			"parse_",
+			"get_deleted_rows",
+			"update_table",
+			"get_deleted",
+			"table_name",
+			"get_deleted",
+			"delete_tab",
+			"deleted_at",
+			"UPDATE",
+			"db_table_name",
+			"name",
+			"_helper",
+			"get_details",
+			"clause",
+			"formatting",
+			"knowledge",
+			"create_table",
+			"check_table",
+			"ons-list-item",
+			".knowledge",
+			"pilsener",
+			"wheat,",
+			"&.add",
+			".segment-info-list-item",
+			".tips",
+			".close",
+			".button",
+			".close",
+			".optimal-list-item",
+			"top: 0.5em",
+			"top:0.5em",
+			"optimal-list-item",
+			".number",
+			"6px;",
+			"optimal-list-item",
+			"swipe",
+			"input",
+			"-webkit-input",
+			".text-input",
+			"line-height:33px;",
+			".onsen-sliding-menu",
+			".copy",
+			".din-bold",
+			".din-italic",
+			".din-",
+			".brix",
+			".foco",
+			".foco-normal",
+			"brix-bold",
+			".search-input",
+			"80,70,70",
+			"segment-info",
+			"segment-list",
+			".brix",
+			"brix-sans",
+			"brix",
+			"brix sans",
+			"customPath",
+			"brix",
+			"105,100,100",
+			"60,50,50",
+			"80,70,70",
+			"255,80,30",
+			"segment-info-list",
+			".segment-info-list",
+			".segment",
+			"segment",
+			"segment_list",
+			"segment-list",
+			"device.ver",
+			"cordova.device",
+			"'Sea",
+			"knowledge\"",
+			".brix",
+			".brix-sans;",
+			".brix",
+			"-webkit-input-placeholder",
+			".search-input",
+			"-webkit-input",
+			"#bottom",
+			"search",
+			".map-list",
+			".number",
+			"18pt",
+			".overview"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"file_strings",
+			"parse_hash",
+			"update_hash",
+			"TODO",
+			"block"
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": false,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 36.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 108.0
+	},
+	"output.find_results":
+	{
+		"height": 228.0
+	},
+	"output.sftp":
+	{
+		"height": 98.0
+	},
+	"replace":
+	{
+		"height": 66.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"Find Results"
+			],
+			[
+				"ftp",
+				"/Users/castavridis/Library/Application Support/Sublime Text 2/Packages/User/sftp_servers/cityPulse"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/Applications/MAMP/htdocs/CTY/civ/civ.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 181.0,
+	"status_bar_visible": true
+}
