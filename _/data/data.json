@@ -1,0 +1,57 @@
+/*
+	Feature structure per killing.
+
+	{
+		"type":"Feature",
+		"geometry": {
+			"type":"Point",
+			"coordinates":[]
+		},
+		"properties": {
+			"name":"",
+			"bio":"",
+			"date_of_death":"",
+			"description":"",
+			"address":"",
+			"location":"",
+			"articles": [
+				{
+					"title":"",
+					"source":""
+				}
+			]
+		}
+	}
+
+*/
+
+{
+	"type":"FeatureCollection",
+	"features":[
+		{
+			"type":"Feature",
+			"geometry": {
+				"type":"Point",
+				"coordinates":[-90.275262,38.739009]
+			},
+			"properties": {
+				"name":"Michael Brown",
+				"bio":"",
+				"date_of_death":"08/09/2014",
+				"description":"",
+				"address":"",
+				"location":"Ferguson, MO",
+				"articles": [
+					{
+						"title":"",
+						"source":""
+					},
+					{
+						"title":"",
+						"source":""
+					}
+				]
+			}
+		}
+	]
+}
