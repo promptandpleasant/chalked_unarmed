@@ -49,7 +49,7 @@
 			"type":"Feature",
 			"geometry":{
 				"type":"Point",
-				"coordinates":[0,0]
+				"coordinates":[-73.864827,40.844782]
 			},
 			"properties": {
 				"name":"Amadou Diallo",
@@ -66,7 +66,7 @@
 			"type":"Feature",
 			"geometry":{
 				"type":"Point",
-				"coordinates":[0,0]
+				"coordinates":[-74.005941,40.712784]
 			},
 			"properties": {
 				"name":"Patrick Dorismond",
@@ -83,7 +83,7 @@
 			"type":"Feature",
 			"geometry":{
 				"type":"Point",
-				"coordinates":[0,0]
+				"coordinates":[-73.944158,40.678178]
 			},
 			"properties": {
 				"name":"Timothy Stansbury",
@@ -100,7 +100,7 @@
 			"type":"Feature",
 			"geometry":{
 				"type":"Point",
-				"coordinates":[0,0]
+				"coordinates":[-90.071532,29.951066]
 			},
 			"properties": {
 				"name":"James Brissette",
@@ -117,7 +117,7 @@
 			"type":"Feature",
 			"geometry":{
 				"type":"Point",
-				"coordinates":[0,0]
+				"coordinates":[-90.071532,29.951066]
 			},
 			"properties": {
 				"name":"Ronald Madison",
@@ -134,7 +134,7 @@
 			"type":"Feature",
 			"geometry":{
 				"type":"Point",
-				"coordinates":[0,0]
+				"coordinates":[-73.866667,40.750000]
 			},
 			"properties": {
 				"name":"Sean Bell",
@@ -151,7 +151,7 @@
 			"type":"Feature",
 			"geometry":{
 				"type":"Point",
-				"coordinates":[0,0]
+				"coordinates":[-122.271114,37.804364]
 			},
 			"properties": {
 				"name":"Oscar Grant",
@@ -168,7 +168,7 @@
 			"type":"Feature",
 			"geometry":{
 				"type":"Point",
-				"coordinates":[0,0]
+				"coordinates":[-122.676207,45.523452]
 			},
 			"properties": {
 				"name":"Aaron Campbell",
@@ -185,7 +185,7 @@
 			"type":"Feature",
 			"geometry":{
 				"type":"Point",
-				"coordinates":[0,0]
+				"coordinates":[-104.984718,39.737567]
 			},
 			"properties": {
 				"name":"Alonzo Ashley",
@@ -202,7 +202,7 @@
 			"type":"Feature",
 			"geometry":{
 				"type":"Point",
-				"coordinates":[0,0]
+				"coordinates":[-73.762910,41.033986]
 			},
 			"properties": {
 				"name":"Kenneth Chamberlain",
@@ -219,7 +219,7 @@
 			"type":"Feature",
 			"geometry":{
 				"type":"Point",
-				"coordinates":[0,0]
+				"coordinates":[-73.864827,40.844782]
 			},
 			"properties": {
 				"name":"Ramarley Graham",
@@ -236,7 +236,7 @@
 			"type":"Feature",
 			"geometry":{
 				"type":"Point",
-				"coordinates":[0,0]
+				"coordinates":[-117.831143,33.717471]
 			},
 			"properties": {
 				"name":"Manuel Loggins",
@@ -253,7 +253,7 @@
 			"type":"Feature",
 			"geometry":{
 				"type":"Point",
-				"coordinates":[0,0]
+				"coordinates":[-85.390489, 31.223231]
 			},
 			"properties": {
 				"name":"Johnnie Kamahi Warren",
@@ -270,7 +270,7 @@
 			"type":"Feature",
 			"geometry":{
 				"type":"Point",
-				"coordinates":[0,0]
+				"coordinates":[-94.797696,29.301348]
 			},
 			"properties": {
 				"name":"Raymond Allen",
@@ -287,7 +287,7 @@
 			"type":"Feature",
 			"geometry":{
 				"type":"Point",
-				"coordinates":[0,0]
+				"coordinates":[-84.191607,39.758948]
 			},
 			"properties": {
 				"name":"Dante Price",
@@ -304,7 +304,7 @@
 			"type":"Feature",
 			"geometry":{
 				"type":"Point",
-				"coordinates":[0,0]
+				"coordinates":[-90.071532,29.951066]
 			},
 			"properties": {
 				"name":"Wendell Allen",
@@ -321,7 +321,7 @@
 			"type":"Feature",
 			"geometry":{
 				"type":"Point",
-				"coordinates":[0,0]
+				"coordinates":[-87.629798,41.878114]
 			},
 			"properties": {
 				"name":"Rekia Boyd",
@@ -338,7 +338,7 @@
 			"type":"Feature",
 			"geometry":{
 				"type":"Point",
-				"coordinates":[0,0]
+				"coordinates":[-118.144516,34.147785]
 			},
 			"properties": {
 				"name":"Kendrec Lavalle McDade",
@@ -355,7 +355,7 @@
 			"type":"Feature",
 			"geometry":{
 				"type":"Point",
-				"coordinates":[0,0]
+				"coordinates":[-74.005941,40.712784]
 			},
 			"properties": {
 				"name":"Mohamed Bah",
@@ -372,7 +372,7 @@
 			"type":"Feature",
 			"geometry":{
 				"type":"Point",
-				"coordinates":[0,0]
+				"coordinates":[-73.782355,40.911488]
 			},
 			"properties": {
 				"name":"Samuel Cruz",
@@ -406,7 +406,7 @@
 			"type":"Feature",
 			"geometry":{
 				"type":"Point",
-				"coordinates":[0,0]
+				"coordinates":[-84.387982,33.748995]
 			},
 			"properties": {
 				"name":"Gregory Towns, Jr.",
@@ -423,7 +423,7 @@
 			"type":"Feature",
 			"geometry":{
 				"type":"Point",
-				"coordinates":[0,0]
+				"coordinates":[-115.569439,32.847553]
 			},
 			"properties": {
 				"name":"Tommy Yancy",
@@ -440,7 +440,7 @@
 			"type":"Feature",
 			"geometry":{
 				"type":"Point",
-				"coordinates":[0,0]
+				"coordinates":[-74.150201,40.579532]
 			},
 			"properties": {
 				"name":"Eric Garner",
@@ -457,7 +457,7 @@
 			"type":"Feature",
 			"geometry":{
 				"type":"Point",
-				"coordinates":[0,0]
+				"coordinates":[-84.063268,39.709226]
 			},
 			"properties": {
 				"name":"John Crawford",
@@ -474,7 +474,7 @@
 			"type":"Feature",
 			"geometry":{
 				"type":"Point",
-				"coordinates":[0,0]
+				"coordinates":[-73.944158,40.678178]
 			},
 			"properties": {
 				"name":"Shantel Davis",
@@ -491,7 +491,7 @@
 			"type":"Feature",
 			"geometry":{
 				"type":"Point",
-				"coordinates":[0,0]
+				"coordinates":[-84.105226,40.742551]
 			},
 			"properties": {
 				"name":"Tarika Wilson",
@@ -508,7 +508,7 @@
 			"type":"Feature",
 			"geometry":{
 				"type":"Point",
-				"coordinates":[0,0]
+				"coordinates":[-83.045754,42.331427]
 			},
 			"properties": {
 				"name":"Aiyana Jones",
@@ -525,7 +525,7 @@
 			"type":"Feature",
 			"geometry":{
 				"type":"Point",
-				"coordinates":[0,0]
+				"coordinates":[-77.036871,38.907192]
 			},
 			"properties": {
 				"name":"Miriam Carey",
@@ -542,7 +542,7 @@
 			"type":"Feature",
 			"geometry":{
 				"type":"Point",
-				"coordinates":[0,0]
+				"coordinates":[-73.866667,40.750000]
 			},
 			"properties": {
 				"name":"Shereese Francis",
@@ -559,7 +559,7 @@
 			"type":"Feature",
 			"geometry":{
 				"type":"Point",
-				"coordinates":[0,0]
+				"coordinates":[-117.396156,33.953349]
 			},
 			"properties": {
 				"name":"Tyisha Miller",
@@ -576,7 +576,7 @@
 			"type":"Feature",
 			"geometry":{
 				"type":"Point",
-				"coordinates":[0,0]
+				"coordinates":[-97.315270,30.110495]
 			},
 			"properties": {
 				"name":"Yvette Smith",
@@ -593,7 +593,7 @@
 			"type":"Feature",
 			"geometry":{
 				"type":"Point",
-				"coordinates":[0,0]
+				"coordinates":[-115.139830,36.169941]
 			},
 			"properties": {
 				"name":"Sharmel Edwards",
