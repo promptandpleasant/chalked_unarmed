@@ -9,10 +9,10 @@
 		},
 		"properties": {
 			"name":"",
-			"bio":"",
+			"bio":"",		//optional
 			"date_of_death":"",
-			"description":"",
-			"address":"",
+			"description":"",	//optional
+			"address":"",		//optional
 			"location":"",
 			"articles": [
 				{
@@ -36,16 +36,570 @@
 			},
 			"properties": {
 				"name":"Michael Brown",
-				"bio":"",
 				"date_of_death":"08/09/2014",
-				"description":"",
-				"address":"",
 				"location":"Ferguson, MO",
 				"articles": [
 					{
 						"title":"",
 						"source":""
-					},
+					}
+				]
+			}
+		}, {
+			"type":"Feature",
+			"geometry":{
+				"type":"Point",
+				"coordinates":[0,0]
+			},
+			"properties": {
+				"name":"Amadou Diallo",
+				"date_of_death":"02/04/1999",
+				"location":"Bronx, NY",
+				"articles":[
+					{
+						"title":"",
+						"source":""
+					}
+				]
+			}
+		}, {
+			"type":"Feature",
+			"geometry":{
+				"type":"Point",
+				"coordinates":[0,0]
+			},
+			"properties": {
+				"name":"Patrick Dorismond",
+				"date_of_death":"03/16/2000",
+				"location":"New York, NY",
+				"articles":[
+					{
+						"title":"",
+						"source":""
+					}
+				]
+			}
+		}, {
+			"type":"Feature",
+			"geometry":{
+				"type":"Point",
+				"coordinates":[0,0]
+			},
+			"properties": {
+				"name":"Timothy Stansbury",
+				"date_of_death":"01/24/2004",
+				"location":"Brooklyn, NY",
+				"articles":[
+					{
+						"title":"",
+						"source":""
+					}
+				]
+			}
+		}, {
+			"type":"Feature",
+			"geometry":{
+				"type":"Point",
+				"coordinates":[0,0]
+			},
+			"properties": {
+				"name":"James Brissette",
+				"date_of_death":"09/04/2005",
+				"location":"New Orleans, LA",
+				"articles":[
+					{
+						"title":"",
+						"source":""
+					}
+				]
+			}
+		}, {
+			"type":"Feature",
+			"geometry":{
+				"type":"Point",
+				"coordinates":[0,0]
+			},
+			"properties": {
+				"name":"Ronald Madison",
+				"date_of_death":"09/04/2005",
+				"location":"New Orleans, LA",
+				"articles":[
+					{
+						"title":"",
+						"source":""
+					}
+				]
+			}
+		}, {
+			"type":"Feature",
+			"geometry":{
+				"type":"Point",
+				"coordinates":[0,0]
+			},
+			"properties": {
+				"name":"Sean Bell",
+				"date_of_death":"11/25/2006",
+				"location":"Queens, NY",
+				"articles":[
+					{
+						"title":"",
+						"source":""
+					}
+				]
+			}
+		}, {
+			"type":"Feature",
+			"geometry":{
+				"type":"Point",
+				"coordinates":[0,0]
+			},
+			"properties": {
+				"name":"Oscar Grant",
+				"date_of_death":"01/01/2009",
+				"location":"Oakland, CA",
+				"articles":[
+					{
+						"title":"",
+						"source":""
+					}
+				]
+			}
+		}, {
+			"type":"Feature",
+			"geometry":{
+				"type":"Point",
+				"coordinates":[0,0]
+			},
+			"properties": {
+				"name":"Aaron Campbell",
+				"date_of_death":"01/29/2010",
+				"location":"Portland, OR",
+				"articles":[
+					{
+						"title":"",
+						"source":""
+					}
+				]
+			}
+		}, {
+			"type":"Feature",
+			"geometry":{
+				"type":"Point",
+				"coordinates":[0,0]
+			},
+			"properties": {
+				"name":"Alonzo Ashley",
+				"date_of_death":"07/18/2011",
+				"location":"Denver, CO",
+				"articles":[
+					{
+						"title":"",
+						"source":""
+					}
+				]
+			}
+		}, {
+			"type":"Feature",
+			"geometry":{
+				"type":"Point",
+				"coordinates":[0,0]
+			},
+			"properties": {
+				"name":"Kenneth Chamberlain",
+				"date_of_death":"11/19/2011",
+				"location":"White Plains, NY",
+				"articles":[
+					{
+						"title":"",
+						"source":""
+					}
+				]
+			}
+		}, {
+			"type":"Feature",
+			"geometry":{
+				"type":"Point",
+				"coordinates":[0,0]
+			},
+			"properties": {
+				"name":"Ramarley Graham",
+				"date_of_death":"02/02/2012",
+				"location":"Bronx, NY",
+				"articles":[
+					{
+						"title":"",
+						"source":""
+					}
+				]
+			}
+		}, {
+			"type":"Feature",
+			"geometry":{
+				"type":"Point",
+				"coordinates":[0,0]
+			},
+			"properties": {
+				"name":"Manuel Loggins",
+				"date_of_death":"02/07/2012",
+				"location":"Orange County, CA",
+				"articles":[
+					{
+						"title":"",
+						"source":""
+					}
+				]
+			}
+		}, {
+			"type":"Feature",
+			"geometry":{
+				"type":"Point",
+				"coordinates":[0,0]
+			},
+			"properties": {
+				"name":"Johnnie Kamahi Warren",
+				"date_of_death":"02/13/2012",
+				"location":"Dotham, AL",
+				"articles":[
+					{
+						"title":"",
+						"source":""
+					}
+				]
+			}
+		}, {
+			"type":"Feature",
+			"geometry":{
+				"type":"Point",
+				"coordinates":[0,0]
+			},
+			"properties": {
+				"name":"Raymond Allen",
+				"date_of_death":"02/29/2012",
+				"location":"Galveston, TX",
+				"articles":[
+					{
+						"title":"",
+						"source":""
+					}
+				]
+			}
+		}, {
+			"type":"Feature",
+			"geometry":{
+				"type":"Point",
+				"coordinates":[0,0]
+			},
+			"properties": {
+				"name":"Dante Price",
+				"date_of_death":"03/02/2012",
+				"location":"Dayton, OH",
+				"articles":[
+					{
+						"title":"",
+						"source":""
+					}
+				]
+			}
+		}, {
+			"type":"Feature",
+			"geometry":{
+				"type":"Point",
+				"coordinates":[0,0]
+			},
+			"properties": {
+				"name":"Wendell Allen",
+				"date_of_death":"03/07/2012",
+				"location":"New Orleans, LA",
+				"articles":[
+					{
+						"title":"",
+						"source":""
+					}
+				]
+			}
+		}, {
+			"type":"Feature",
+			"geometry":{
+				"type":"Point",
+				"coordinates":[0,0]
+			},
+			"properties": {
+				"name":"Rekia Boyd",
+				"date_of_death":"03/21/2012",
+				"location":"Chicago, IL",
+				"articles":[
+					{
+						"title":"",
+						"source":""
+					}
+				]
+			}
+		}, {
+			"type":"Feature",
+			"geometry":{
+				"type":"Point",
+				"coordinates":[0,0]
+			},
+			"properties": {
+				"name":"Kendrec Lavalle McDade",
+				"date_of_death":"03/25/2012",
+				"location":"Pasadena, CA",
+				"articles":[
+					{
+						"title":"",
+						"source":""
+					}
+				]
+			}
+		}, {
+			"type":"Feature",
+			"geometry":{
+				"type":"Point",
+				"coordinates":[0,0]
+			},
+			"properties": {
+				"name":"Mohamed Bah",
+				"date_of_death":"09/25/2012",
+				"location":"New York, NY",
+				"articles":[
+					{
+						"title":"",
+						"source":""
+					}
+				]
+			}
+		}, {
+			"type":"Feature",
+			"geometry":{
+				"type":"Point",
+				"coordinates":[0,0]
+			},
+			"properties": {
+				"name":"Samuel Cruz",
+				"date_of_death":"05/26/2013",
+				"location":"New Rochelle, NY",
+				"articles":[
+					{
+						"title":"",
+						"source":""
+					}
+				]
+			}
+		}, {
+			"type":"Feature",
+			"geometry":{
+				"type":"Point",
+				"coordinates":[0,0]
+			},
+			"properties": {
+				"name":"Jonathan Ferrell",
+				"date_of_death":"09/14/2013",
+				"location":"Charlotte, NC",
+				"articles":[
+					{
+						"title":"",
+						"source":""
+					}
+				]
+			}
+		}, {
+			"type":"Feature",
+			"geometry":{
+				"type":"Point",
+				"coordinates":[0,0]
+			},
+			"properties": {
+				"name":"Gregory Towns, Jr.",
+				"date_of_death":"04/11/2014",
+				"location":"Atlanta, GA",
+				"articles":[
+					{
+						"title":"",
+						"source":""
+					}
+				]
+			}
+		}, {
+			"type":"Feature",
+			"geometry":{
+				"type":"Point",
+				"coordinates":[0,0]
+			},
+			"properties": {
+				"name":"Tommy Yancy",
+				"date_of_death":"05/11/2014",
+				"location":"Imperial, CA",
+				"articles":[
+					{
+						"title":"",
+						"source":""
+					}
+				]
+			}
+		}, {
+			"type":"Feature",
+			"geometry":{
+				"type":"Point",
+				"coordinates":[0,0]
+			},
+			"properties": {
+				"name":"Eric Garner",
+				"date_of_death":"07/17/2014",
+				"location":"Staten Island, NY",
+				"articles":[
+					{
+						"title":"",
+						"source":""
+					}
+				]
+			}
+		}, {
+			"type":"Feature",
+			"geometry":{
+				"type":"Point",
+				"coordinates":[0,0]
+			},
+			"properties": {
+				"name":"John Crawford",
+				"date_of_death":"08/05/2014",
+				"location":"Beavercreek, OH",
+				"articles":[
+					{
+						"title":"",
+						"source":""
+					}
+				]
+			}
+		}, {
+			"type":"Feature",
+			"geometry":{
+				"type":"Point",
+				"coordinates":[0,0]
+			},
+			"properties": {
+				"name":"Shantel Davis",
+				"date_of_death":"06/14/2012",
+				"location":"Brooklyn, NY",
+				"articles":[
+					{
+						"title":"",
+						"source":""
+					}
+				]
+			}
+		}, {
+			"type":"Feature",
+			"geometry":{
+				"type":"Point",
+				"coordinates":[0,0]
+			},
+			"properties": {
+				"name":"Tarika Wilson",
+				"date_of_death":"01/04/2008",
+				"location":"Lima, OH",
+				"articles":[
+					{
+						"title":"",
+						"source":""
+					}
+				]
+			}
+		}, {
+			"type":"Feature",
+			"geometry":{
+				"type":"Point",
+				"coordinates":[0,0]
+			},
+			"properties": {
+				"name":"Aiyana Jones",
+				"date_of_death":"05/16/2010",
+				"location":"Detroit, MI",
+				"articles":[
+					{
+						"title":"",
+						"source":""
+					}
+				]
+			}
+		}, {
+			"type":"Feature",
+			"geometry":{
+				"type":"Point",
+				"coordinates":[0,0]
+			},
+			"properties": {
+				"name":"Miriam Carey",
+				"date_of_death":"10/03/2013",
+				"location":"Washingnton, DC",
+				"articles":[
+					{
+						"title":"",
+						"source":""
+					}
+				]
+			}
+		}, {
+			"type":"Feature",
+			"geometry":{
+				"type":"Point",
+				"coordinates":[0,0]
+			},
+			"properties": {
+				"name":"Shereese Francis",
+				"date_of_death":"03/15/2012",
+				"location":"Queens, NY",
+				"articles":[
+					{
+						"title":"",
+						"source":""
+					}
+				]
+			}
+		}, {
+			"type":"Feature",
+			"geometry":{
+				"type":"Point",
+				"coordinates":[0,0]
+			},
+			"properties": {
+				"name":"Tyisha Miller",
+				"date_of_death":"12/28/1998",
+				"location":"Riverside, CA",
+				"articles":[
+					{
+						"title":"",
+						"source":""
+					}
+				]
+			}
+		}, {
+			"type":"Feature",
+			"geometry":{
+				"type":"Point",
+				"coordinates":[0,0]
+			},
+			"properties": {
+				"name":"Yvette Smith",
+				"date_of_death":"02/16/2013",
+				"location":"Balstrop, TX",
+				"articles":[
+					{
+						"title":"",
+						"source":""
+					}
+				]
+			}
+		}, {
+			"type":"Feature",
+			"geometry":{
+				"type":"Point",
+				"coordinates":[0,0]
+			},
+			"properties": {
+				"name":"Sharmel Edwards",
+				"date_of_death":"04/20/2014",
+				"location":"Las Vegas, NV",
+				"articles":[
 					{
 						"title":"",
 						"source":""
